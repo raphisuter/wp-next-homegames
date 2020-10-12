@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Next Homegames Widget Plugin
- * Plugin URI: https://github.com/raphisuter/jsNextGames
+ * Plugin URI: https://github.com/raphisuter/wp-next-homegames
  * Description: Loads next home games of your FC and displays currents gameweeks home games
  * Version: 1.0
  * Author: Raphael Suter
